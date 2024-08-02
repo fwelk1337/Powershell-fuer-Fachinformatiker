@@ -3,6 +3,11 @@
 
 Install-Module -Name "AzureAD"
 
+# Es gibt noch Parameter die man mitgeben wie:
+# - Repository
+# - Verbose 
+# Mehr hier: https://learn.microsoft.com/de-de/powershell/module/microsoft.powershell.core/import-module?view=powershell-7.4
+
 # & 
 
 Import-Module -Name "AzureAD"
